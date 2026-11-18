@@ -76,3 +76,6 @@ Testing/
 
 # Local VS Code settings
 .vscode/settings.json
+
+# Reference PDFs
+Resources/*.pdf
