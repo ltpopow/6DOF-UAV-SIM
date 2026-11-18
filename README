@@ -1,0 +1,4 @@
+This is a 6DOF model I am developing for further understanding of modeling & simulation, and to further my studies in my steady state control course
+
+Design choices 
+-RK4 numerican integration for higher accuracy and stability
