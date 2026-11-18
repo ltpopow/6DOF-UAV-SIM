@@ -2,10 +2,17 @@
 *.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
 *.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+
+# Build folders
+build/
+x64/
+Debug/
+Release/
 
 # Precompiled Headers
 *.gch
@@ -66,3 +73,6 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local VS Code settings
+.vscode/settings.json
